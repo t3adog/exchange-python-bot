@@ -1,0 +1,2 @@
+exchangelib==4.6.1
+requests==2.26.0
