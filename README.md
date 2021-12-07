@@ -14,7 +14,7 @@ requests 2.26.0
 ## quick start
 1. do pip install -r requirements.txt
 2. implement you properties in config/config.ini
-3. **important**: implement your exchange dir in main.py#20 (Yep, It is hardcode, because I'm lazy) 
+3. **important**: implement your exchange dir in main.py#20 (Yep, It is hardcode, because I'm tired) 
 
 ## troubleshooting
-Id you have any troubles, you can create issue. I try to help.
+If you have any troubles, you can create issue. I try to help.
