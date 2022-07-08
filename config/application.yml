@@ -1,0 +1,10 @@
+exchange:
+    email: implement_me
+    login: implement_me
+    password: implement_me
+
+telegram:
+    telegram_token: implement_me
+    telegram_chat: implement_me
+
+sleep_time_sec: 60

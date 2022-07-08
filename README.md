@@ -1,4 +1,4 @@
-# 💩 exchange-python-bot
+# exchange-python-bot
 A very simple script for alerting in telegram from special exchange dir
 
 ## how you can use it
@@ -10,11 +10,17 @@ You can:
 ## requirements
 exchangelib 4.6.1
 requests 2.26.0
+pyyaml 6.0
 
 ## quick start
 1. do pip install -r requirements.txt
 2. implement you properties in config/config.ini
 3. **important**: implement your exchange dir in main.py#20 (Yep, It is hardcode, because I'm tired) 
+
+
+## run in docker
+1. do docker build .
+2. do docker run -d --name python-exchange-bot -v /epath/to/conf/application.yml:/config/application.yml -v /path/to/log//:/log {builded-docker-tag}
 
 ## troubleshooting
 If you have any troubles, you can create issue. I try to help.
