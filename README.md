@@ -8,9 +8,9 @@ You can:
 2. Use this script. It connect to you mailbox from anywhere, read special dir and forward alert in telegram
 
 ## requirements
-exchangelib 4.6.1
-requests 2.26.0
-pyyaml 6.0
+* exchangelib 4.6.1
+* requests 2.26.0
+* pyyaml 6.0
 
 ## quick start
 1. do pip install -r requirements.txt
