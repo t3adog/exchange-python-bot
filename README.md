@@ -1,7 +1,3 @@
-# DEPRECATED
-
-New version is here: https://github.com/kptlr/paymaster
-
 # exchange-python-bot
 
 A very simple script for alerting in telegram from special exchange dir
